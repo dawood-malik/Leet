@@ -1,0 +1,15 @@
+D:\source\repos\DSA\leet_25h\bin\Debug\net7.0\leet_25h.exe
+D:\source\repos\DSA\leet_25h\bin\Debug\net7.0\leet_25h.deps.json
+D:\source\repos\DSA\leet_25h\bin\Debug\net7.0\leet_25h.runtimeconfig.json
+D:\source\repos\DSA\leet_25h\bin\Debug\net7.0\leet_25h.dll
+D:\source\repos\DSA\leet_25h\bin\Debug\net7.0\leet_25h.pdb
+D:\source\repos\DSA\leet_25h\obj\Debug\net7.0\leet_25h.csproj.AssemblyReference.cache
+D:\source\repos\DSA\leet_25h\obj\Debug\net7.0\leet_25h.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\DSA\leet_25h\obj\Debug\net7.0\leet_25h.AssemblyInfoInputs.cache
+D:\source\repos\DSA\leet_25h\obj\Debug\net7.0\leet_25h.AssemblyInfo.cs
+D:\source\repos\DSA\leet_25h\obj\Debug\net7.0\leet_25h.csproj.CoreCompileInputs.cache
+D:\source\repos\DSA\leet_25h\obj\Debug\net7.0\leet_25h.dll
+D:\source\repos\DSA\leet_25h\obj\Debug\net7.0\refint\leet_25h.dll
+D:\source\repos\DSA\leet_25h\obj\Debug\net7.0\leet_25h.pdb
+D:\source\repos\DSA\leet_25h\obj\Debug\net7.0\leet_25h.genruntimeconfig.cache
+D:\source\repos\DSA\leet_25h\obj\Debug\net7.0\ref\leet_25h.dll
